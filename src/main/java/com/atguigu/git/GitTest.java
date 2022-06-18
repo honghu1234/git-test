@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("hello hello");
         System.out.println("hello gitee");
          System.out.println("hello githup");
-                 System.out.println("githup改动");
+                 System.out.println("githup拉取");
     }
 }
